@@ -14,15 +14,16 @@ The goal of this dashboard is to:
 
 ---
 
-## Tools & Technologies
+## Tech Stack
 
 - **Power BI**: Data visualization and dashboard development
 - **Excel/CSV**: Data source used for analysis
 - **DAX (Data Analysis Expressions)**: For calculated columns/measures
+- **File Format**: .pbix for development and .png for dashboard preview.
 
 ---
 
-## Key Features
+## Features & Highlights
 
 - **Sales Trend Analysis**  
 - **Customer Segmentation**  
