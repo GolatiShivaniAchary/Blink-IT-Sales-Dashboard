@@ -40,5 +40,5 @@ The goal of this dashboard is to:
 ---
 
 ## Demo Of Dashboard
-https://github.com/GolatiShivaniAchary/Blink-IT-Sales-Dashboard/blob/main/Dashboard.png
+Example: ![image alt](https://github.com/GolatiShivaniAchary/Blink-IT-Sales-Dashboard/blob/main/Dashboard.png)
 
