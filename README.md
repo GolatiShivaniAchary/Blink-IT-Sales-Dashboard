@@ -4,7 +4,7 @@ This repository contains an interactive **Power BI dashboard** for Blinkit (form
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 The goal of this dashboard is to:
 - Visualize key performance indicators (KPIs)
@@ -14,22 +14,21 @@ The goal of this dashboard is to:
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Power BI**: Data visualization and dashboard development
-- **Excel/CSV** *(assumed)*: Data source used for analysis
+- **Excel/CSV**: Data source used for analysis
 - **DAX (Data Analysis Expressions)**: For calculated columns/measures
 
 ---
 
-## 📌 Key Features
+## Key Features
 
-- 📈 **Sales Trend Analysis**  
-- 👥 **Customer Segmentation**  
-- 🏬 **Top Categories & Products**  
-- 📍 **Geographic Performance** *(if applicable)*  
-- ⏱️ **Time-based Filtering (Day/Week/Month)**  
-- ⚙️ **Interactive Slicers and Filters**
+- **Sales Trend Analysis**  
+- **Customer Segmentation**  
+- **Top Categories & Products**  
+- **Time-based Filtering (Day/Week/Month)**  
+- **Interactive Slicers and Filters**
 
 ---
 
