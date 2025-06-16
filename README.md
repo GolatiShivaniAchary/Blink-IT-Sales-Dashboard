@@ -39,9 +39,6 @@ The goal of this dashboard is to:
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/blinkit-dashboard.git
+## Demo Of Dashboard
+https://github.com/GolatiShivaniAchary/Blink-IT-Sales-Dashboard/blob/main/Dashboard.png
 
